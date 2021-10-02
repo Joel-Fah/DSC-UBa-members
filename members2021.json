@@ -134,4 +134,11 @@
         "language":   "JavaScript, java",
         "level":    "intermediate"
     },
+    {  
+        "id": 12,
+        "name": "Dejon Fah Joel",
+        "position": "Member",   
+        "language": "Python",
+        "level": "Intermediate"
+    },
 ]
